@@ -3,6 +3,7 @@
 - https://whosartifact.com/ko/
 
 Find the owner of your artifacts
+Images belong to Com2us
 
 ## contribute
 You can access translation files
